@@ -15,7 +15,7 @@
           <a href="index.html">Home</a></br>
         </nav>
         <nav class="col-2">
-          <a href="Romanovskiy_AboutMe.html">AboutMe</a></br>
+          <a href="Romanovskiy_AboutMe.html">About Me</a></br>
         </nav>
         <nav class="col-2">
           <a href="Romanovskiy_Resume.html">Resume</a></br>
@@ -24,7 +24,7 @@
           <a href="Romanovskiy_Projects.html">Projects</a></br>
         </nav>
         <nav class="col-2">
-          <a href="Romanovskiy_ContactMe.html">ContactMe</a></br>
+          <a href="Romanovskiy_ContactMe.html">Contact Me</a></br>
         </nav>
       </div>
     </heading>
